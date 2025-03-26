@@ -1,0 +1,1 @@
+export const BACKEND_ADDR = "http://#API_GATEWAY_HOST_PORT#/api";
